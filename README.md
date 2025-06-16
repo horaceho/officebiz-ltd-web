@@ -1,7 +1,7 @@
 # Office Business Limited
 
-Source of https://office.biz/
+Source of https://officebiz.ltd/
 
 ### Copyright
 
-&copy; 2021 [office.biz](https://office.biz)
+&copy; 2025 [office.biz](https://office.biz)
